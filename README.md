@@ -21,5 +21,11 @@ Here I have used whatsapp chat file backup and telegram chat backup file.
 
 
 # More ideas to implement
-- [ ] who is the most emoji person in the group
-- [ ] somewhat difficult but how did the mood of the group changed, can check with emoji 
+- [ ] who is the most emoji person in the group.  
+    - [ ] calculate the number of emoji for each user of the group
+    - [ ] then compare for who has highest score among them 
+    - [ ] then declare the winner among them. 
+- [ ] Evaluate the average mood of the group with the help of smillies used
+    - [ ] give a sentiment value of zero to one to every emoji
+    - [ ] evaluate the total sentiment score for the day, then devide it by the total number of emojis used on that day
+    - [ ] plot a time varying graph of the same
