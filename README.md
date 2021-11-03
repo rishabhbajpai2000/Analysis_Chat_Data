@@ -3,3 +3,7 @@ This will contain code of some of the tasks I had performed over my class WhatsA
 
 Python was used as language, and the tasks are completed in Jupyter Notebook
 
+
+# More ideas to implement
+1. who is the most emoji person in the group
+2. somewhat difficult but how did the mood of the group changed, can check with emoji 
