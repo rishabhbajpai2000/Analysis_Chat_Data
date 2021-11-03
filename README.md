@@ -3,6 +3,3 @@ This will contain code of some of the tasks I had performed over my class WhatsA
 
 Python was used as language, and the tasks are completed in Jupyter Notebook
 
-one random comment
-
-second random comment
