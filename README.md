@@ -12,7 +12,8 @@ This can be used by someone if he/she wants to promote something in a group, the
 ![image](https://user-images.githubusercontent.com/64163517/140166440-be3dc43a-3a51-4bf0-94a4-41e6faf9b0a8.png)
 
 ### 2.1 Who posted between 4 AM and 5 AM.
-since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to see who were the masters of this time as well. 
+since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to see who were the masters of this time as well.![image](https://user-images.githubusercontent.com/64163517/141661418-bf93463e-e978-4314-a431-6407285d00a4.png)
+
 
 ## 3. Calculating the total time it took for the conversation?
 
