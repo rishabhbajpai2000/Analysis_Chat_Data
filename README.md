@@ -8,7 +8,7 @@ This will contain Python code of the tasks I had performed over my class WhatsAp
 
 This can be used by someone if he/she wants to promote something in a group, then he can go on the busiest hour to get the most attention of the viewers. 
 
-### 2.1 Who posted between 4 AM and 5 AM.
+### 1.1 Who posted between 4 AM and 5 AM.
 since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to see who were the masters of this time as well.![image](https://user-images.githubusercontent.com/64163517/141661418-bf93463e-e978-4314-a431-6407285d00a4.png)
 
 ## 2. Who sends the most number of messages in the group?
