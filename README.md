@@ -11,6 +11,9 @@ This can be used by someone if he/she wants to promote something in a group, the
 ## 2. Who sends the most number of messages in the group?
 ![image](https://user-images.githubusercontent.com/64163517/140166440-be3dc43a-3a51-4bf0-94a4-41e6faf9b0a8.png)
 
+### 2.1 Who posted between 4 AM and 5 AM.
+since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to see who were the masters of this time as well. 
+
 ## 3. Calculating the total time it took for the conversation?
 
 Actually, it was just some personal thing, here I calculated the total amount of time with our usual typing speed it would have taken to do the chats. 
