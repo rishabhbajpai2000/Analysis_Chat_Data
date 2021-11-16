@@ -31,4 +31,25 @@ Here I have used whatsapp chat file backup and telegram chat backup file.
 - [ ] Evaluate the average mood of the group with the help of smillies used
     - [ ] give a sentiment value of zero to one to every emoji
     - [ ] evaluate the total sentiment score for the day, then devide it by the total number of emojis used on that day
-    - [ ] plot a time varying graph of the same
+    - [ ] plot a time varying graph of the same 
+- [ ] write code of Socially active chart again, this one is old and not purely in python as well.  
+    **Steps**
+    - [ ] merge data to form a new updated data set. 
+    - [ ] start working on the data set
+
+**major update**
+- [ ] make a user profile out of the data of every participant of the group ...and add these features
+    - [ ] sleeping time of top 3 partcipants
+    - [ ] all the messages
+    - [ ] length of messages
+    - [ ] average length of the messages
+    - [ ] average time between the replies
+    - [ ] sentiment
+    - [ ] how his/her messages' length varied over time
+    - [ ] how much time he/she takes to reply
+    - [ ] deleted messages 
+ 
+- [ ] make a general application, or web application if possible
+
+
+
