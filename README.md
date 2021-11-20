@@ -1,6 +1,23 @@
 # Analysis_Whatsapp_Group
 This will contain Python code of the tasks I had performed over my class WhatsApp group data extracted from .txt file backup. 
 
+# How to locally run the project?
+Requirements 
+1. You will need [python](https://www.python.org/downloads/) installed in your system. 
+2. An editor of your choice, like [VS Code](https://code.visualstudio.com/download) or [Anaconda](https://www.anaconda.com/products/individual) distrbution. 
+3. you will also need to install following libaries, to install a library either open anaconda prompt for Anaconda or open a terminal in VS Code
+
+`pip install matplotlib`
+`pip install json`
+
+Setup
+1. Fork the repository to your account.
+2. Open git bash in the folder where you want to open the project.
+
+    `git clone www.github.com/<yourusername>/Analysis_Chat_Data`
+3. Open the folder in VS Code or Jupyter Notebook
+
+
 # What were the Ideas?
 ## 1. How the frequency of messages vary over the day?
 
@@ -19,7 +36,7 @@ since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to
 Actually, it was just some personal thing, here I calculated the total amount of time with our usual typing speed it would have taken to do the chats. 
 
 Here I have used whatsapp chat file backup and telegram chat backup file. 
-
+P
 
 
 
@@ -32,10 +49,12 @@ Here I have used whatsapp chat file backup and telegram chat backup file.
     - [ ] give a sentiment value of zero to one to every emoji
     - [ ] evaluate the total sentiment score for the day, then devide it by the total number of emojis used on that day
     - [ ] plot a time varying graph of the same 
+
+
 - [ ] write code of Socially active chart again, this one is old and not purely in python as well.  
     **Steps**
-    - [ ] merge data to form a new updated data set. 
-    - [ ] start working on the data set
+    - [ ] merge data to form a new updated data set. - 16 November 2021
+    - [ ] start working on the data set - 16 November
 
 **major update**
 - [ ] make a user profile out of the data of every participant of the group ...and add these features
