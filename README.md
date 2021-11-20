@@ -2,15 +2,16 @@
 This will contain Python code of the tasks I had performed over my class WhatsApp group data extracted from .txt file backup. 
 
 # How to locally run the project?
-Requirements 
+**Requirements**
 1. You will need [python](https://www.python.org/downloads/) installed in your system. 
 2. An editor of your choice, like [VS Code](https://code.visualstudio.com/download) or [Anaconda](https://www.anaconda.com/products/individual) distrbution. 
 3. you will also need to install following libaries, to install a library either open anaconda prompt for Anaconda or open a terminal in VS Code
 
 `pip install matplotlib`
+
 `pip install json`
 
-Setup
+**Setup**
 1. Fork the repository to your account.
 2. Open git bash in the folder where you want to open the project.
 
