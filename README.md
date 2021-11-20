@@ -1,4 +1,13 @@
-# Analysis_Whatsapp_Group
+- [Analysis_Whatsapp_Group](#analysis_whatsapp_group)
+- [What were the Ideas?](#what-were-the-ideas)
+  - [1. How the frequency of messages vary over the day?](#1-how-the-frequency-of-messages-vary-over-the-day)
+    - [1.1 Who posted between 4 AM and 5 AM.](#11-who-posted-between-4-am-and-5-am)
+  - [2. Who sends the most number of messages in the group?](#2-who-sends-the-most-number-of-messages-in-the-group)
+  - [3. Calculating the total time it took for the conversation?](#3-calculating-the-total-time-it-took-for-the-conversation)
+- [How to locally run the project?](#how-to-locally-run-the-project)
+- [More ideas to implement  <a name="heading1"></a>](#more-ideas-to-implement--)
+
+# Analysis_Whatsapp_Group  
 This will contain Python code of the tasks I had performed over my class WhatsApp group data extracted from .txt file backup. 
 
 
@@ -52,7 +61,7 @@ P
 3. Open the folder in VS Code or Jupyter Notebook, and you are good to go. 
 
 
-# More ideas to implement
+# More ideas to implement  <a name="heading1"></a>
 - [ ] who is the most emoji person in the group.  
     - [ ] calculate the number of emoji for each user of the group
     - [ ] then compare for who has highest score among them 
