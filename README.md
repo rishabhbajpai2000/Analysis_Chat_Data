@@ -74,22 +74,26 @@ P
     - [ ] plot a time varying graph of the same 
 
 
-- [ ] write code of Socially active chart again, this one is old and not purely in python as well.  
+- [x] write code of Socially active chart again, this one is old and not purely in python as well.  
     **Steps**
-    - [ ] merge data to form a new updated data set. - 16 November 2021
-    - [ ] start working on the data set - 16 November
+    - [x] merge data to form a new updated data set. - 16 November 2021
+    - [x] start working on the data set - 16 November
 
 **major update**
 - [ ] make a user profile out of the data of every participant of the group ...and add these features
-    - [ ] sleeping time of top 3 partcipants
-    - [ ] all the messages
-    - [ ] length of messages
-    - [ ] average length of the messages
-    - [ ] average time between the replies
-    - [ ] sentiment
+    
+    - [x] all the messages
+    - [x] length of messages
+    - [x] average length of the messages
+    - [ ] number of deleted messages
+      - [ ] compare it to classes average as well
     - [ ] how his/her messages' length varied over time
-    - [ ] how much time he/she takes to reply
-    - [ ] deleted messages 
+    - [ ] sleeping time of top 3 partcipants
+    - [ ] sentiment
+    - [ ] ~~average time between the replies~~ - not possible as there is no conversation start or end point
+    - [ ] ~~how much time he/she takes to reply~~ - not possible becuase no way to see whose reply it is
+    - [ ] finally a print function to print all the data
+    
  
 - [ ] make a general application, or web application if possible
 
