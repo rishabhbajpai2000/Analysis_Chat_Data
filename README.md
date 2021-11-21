@@ -1,3 +1,5 @@
+# Table of Content 
+- [Table of Content](#table-of-content)
 - [Analysis_Whatsapp_Group](#analysis_whatsapp_group)
 - [What were the Ideas?](#what-were-the-ideas)
   - [1. How the frequency of messages vary over the day?](#1-how-the-frequency-of-messages-vary-over-the-day)
