@@ -87,9 +87,8 @@ P
     - [x] average length of the messages
     - [ ] number of deleted messages
       - [ ] compare it to classes average as well
-    - [ ] how his/her messages' length varied over time
+    - [ ] how his/her messages' varied over time
     - [ ] sleeping time of top 3 partcipants
-    - [ ] sentiment
     - [ ] ~~average time between the replies~~ - not possible as there is no conversation start or end point
     - [ ] ~~how much time he/she takes to reply~~ - not possible becuase no way to see whose reply it is
     - [ ] finally a print function to print all the data
