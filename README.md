@@ -33,7 +33,8 @@ since 4 and 5 AM is the most silent time in my whatsapp group, still I wanted to
 
 when classses commenced, I was curious to know who would be my go-to-guy incase I want to know about any class gossip.
 
-![image](https://user-images.githubusercontent.com/64163517/140166440-be3dc43a-3a51-4bf0-94a4-41e6faf9b0a8.png)
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/64163517/143732312-c18ef941-488c-4a7f-a6d1-fba9c6ce1d07.png">
+
 
 ## 3. Calculating the total time it took for the conversation?
 **motivation**
