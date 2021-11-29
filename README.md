@@ -6,6 +6,7 @@
     - [1.1 Who posted between 4 AM and 5 AM.](#11-who-posted-between-4-am-and-5-am)
   - [2. Who sends the most number of messages in the group?](#2-who-sends-the-most-number-of-messages-in-the-group)
   - [3. Calculating the total time it took for the conversation?](#3-calculating-the-total-time-it-took-for-the-conversation)
+  - [4. Making a user class when entered with name of the contact gives information about the user.](#4-making-a-user-class-when-entered-with-name-of-the-contact-gives-information-about-the-user)
 - [How to locally run the project?](#how-to-locally-run-the-project)
 - [More ideas to implement  <a name="heading1"></a>](#more-ideas-to-implement--)
 
@@ -42,7 +43,12 @@ when classses commenced, I was curious to know who would be my go-to-guy incase 
 Actually, it was just some personal thing, here I calculated the total amount of time with our usual typing speed it would have taken to do the chats. 
 
 Here I have used whatsapp chat file backup and telegram chat backup file. 
-P
+
+## 4. Making a user class when entered with name of the contact gives information about the user. 
+
+
+
+
 
 
 
@@ -86,8 +92,8 @@ P
     - [x] all the messages
     - [x] length of messages
     - [x] average length of the messages
-    - [ ] number of deleted messages
-      - [ ] compare it to classes average as well
+    - [x] number of deleted messages
+      - [x] compare it to classes average as well
     - [ ] how his/her messages' varied over time
     - [ ] sleeping time of top 3 partcipants
     - [ ] ~~average time between the replies~~ - not possible as there is no conversation start or end point
